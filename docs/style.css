@@ -1,0 +1,41 @@
+body {
+    background: #D6DDF6;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+            
+figure 
+{
+    width:40%;
+    background: LightGrey;
+    margin:auto;
+}
+            
+img 
+{
+    width:100%;
+    
+}
+            
+            
+section
+{
+    background: LightBlue;
+    width:90%;
+    margin:auto;
+}
+
+li
+{
+    color: Maroon;
+    font-family: "Times New Roman", Times, serif;
+}
+
+ul
+{
+    background: White;
+}
+
+ol
+{
+    background: White;
+}
