@@ -26,7 +26,7 @@ section
 
 li
 {
-    color: Maroon;
+    color: purple;
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -38,4 +38,33 @@ ul
 ol
 {
     background: White;
+}
+
+.projectimage
+{
+    width: 10%;
+    background: LightGrey;
+    margin:auto;
+}
+
+.outer
+{
+    background: white;
+}
+
+.aboutImage
+{
+    width: 20%;
+}
+
+nav
+{
+    height: 50px;
+    background: lightpink;
+    padding-top: 30px;
+}
+
+.essay
+{
+    padding-left: 10px;
 }
