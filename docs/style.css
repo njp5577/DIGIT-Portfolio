@@ -68,3 +68,7 @@ nav
 {
     padding-left: 10px;
 }
+
+section.corpusImages {
+    display:flex;
+}
